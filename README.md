@@ -1,0 +1,2 @@
+# kouisei-idea
+wowidea
